@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nilusha-rathwaththe-215a42307" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="https://www.linkedin.com/in/nilusha-rathwaththe-215a42307" height="30" width="40" /></a>
 <a href="https://fb.com/nilusha nirmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilusha nirmal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@nilusha-rathwaththe" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="https://www.youtube.com/@nilusha-rathwaththe" height="30" width="40" /></a>
+<a href="https//www.youtube.com/@nilusha-rathwaththe" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="https://www.youtube.com/@nilusha-rathwaththe" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
